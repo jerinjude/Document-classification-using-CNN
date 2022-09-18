@@ -1,1 +1,2 @@
 # Document-classification-using-CNN
+This is a multiclass classification case where the dataset contains around 19,000 documents that can be classified into 20 classes. The text in the documents were cleaned using regex and NLTK. A functional CNN model was trained on the dataset with word embeddings which gave train accuracy of 88% and validation accuracy of 65%. Also, a sequential CNN model was trained using character embeddings which gave a training accuracy of 8.6% and validation accuracy of 8.8%.
